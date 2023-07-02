@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andressa21N
-- 👀 I’m interested in python
+- 👀 I’m interested in desenvolver jogos e web sites
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ...
 
 <!---
